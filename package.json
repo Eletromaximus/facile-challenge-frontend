@@ -9,6 +9,7 @@
     "commit": "cz"
   },
   "dependencies": {
+    "@prisma/client": "^3.6.0",
     "next": "12.0.4",
     "pg": "^8.7.1",
     "react": "17.0.2",
